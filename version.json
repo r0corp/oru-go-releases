@@ -1,10 +1,10 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.0",
-  "apkUrl": "https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.0.apk",
-  "sha256": "72832189db2ccbeb23327cadb874ad94b2eb191d5ee33dea258b6b0e105087e0",
+  "versionCode": 3,
+  "versionName": "1.0.1",
+  "apkUrl": "https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.1.apk",
+  "sha256": "09eb7dc9e08d7eeabd9337187b129adadbefcd36e3855aee6d30657e4a18fa99",
   "sizeBytes": 51717433,
-  "notes": "Rilis pertama Oru POS GO.",
+  "notes": "Pop-up masa percobaan baru: tombol Aktifkan Lisensi, dua bahasa, tampilan seperti POS.",
   "mandatory": false,
   "minSupportedVersionCode": 0
 }
