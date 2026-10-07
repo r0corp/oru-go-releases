@@ -1,10 +1,10 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.5",
-  "apkUrl": "https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.5.apk",
-  "sha256": "a25d37de14ccfd54ce92b37a20b8df63deeb2b4b28b9e6701aea1e1b9f8c682f",
-  "sizeBytes": 51718001,
-  "notes": "Fitur baru Ganti Password (menu profil), Owner bisa mengatur ulang password karyawan lewat ikon kunci.",
+  "versionCode": 8,
+  "versionName": "1.0.6",
+  "apkUrl": "https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.6.apk",
+  "sha256": "ecdcf8d853da2da7eb22d10c480d95d0dbd1ed5a84057b4cdcefed0008921296",
+  "sizeBytes": 51767157,
+  "notes": "Baru: ubah nama dan harga menu, pulihkan backup (ganti HP jadi mudah), wajib ganti password bawaan, logo Orulabs saat masa percobaan, dan perbaikan QR meja.",
   "mandatory": false,
   "minSupportedVersionCode": 0
 }
