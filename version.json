@@ -1,10 +1,10 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.7",
-  "apkUrl": "https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.7.apk",
-  "sha256": "4ae9baeee332e275e0081f0f4e1ddbd94257b0461fc0c3714f57eced8c66e127",
+  "versionCode": 10,
+  "versionName": "1.0.8",
+  "apkUrl": "https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.8.apk",
+  "sha256": "61009bb8ed4300a26dbffbdf79b1751d33a28e754403c1753941e8421c4ad08d",
   "sizeBytes": 51767157,
-  "notes": "Baru: info dari penjual (pengumuman update/perpanjangan) dan status aktif ke penjual yang bisa dimatikan di Pengaturan > Sistem > Lisensi. Hanya Kode Perangkat, versi, dan status lisensi yang dikirim; tanpa data penjualan.",
+  "notes": "Perbaikan tampilan Dashboard di HP dan tablet: kartu penjualan lebih lega (nominal besar tidak keluar kartu) dan tombol menu tidak lagi terpotong.",
   "mandatory": false,
   "minSupportedVersionCode": 0
 }
