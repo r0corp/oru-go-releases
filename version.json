@@ -1,10 +1,10 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.6",
-  "apkUrl": "https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.6.apk",
-  "sha256": "ecdcf8d853da2da7eb22d10c480d95d0dbd1ed5a84057b4cdcefed0008921296",
+  "versionCode": 9,
+  "versionName": "1.0.7",
+  "apkUrl": "https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.7.apk",
+  "sha256": "4ae9baeee332e275e0081f0f4e1ddbd94257b0461fc0c3714f57eced8c66e127",
   "sizeBytes": 51767157,
-  "notes": "Baru: ubah nama dan harga menu, pulihkan backup (ganti HP jadi mudah), wajib ganti password bawaan, logo Orulabs saat masa percobaan, dan perbaikan QR meja.",
+  "notes": "Baru: info dari penjual (pengumuman update/perpanjangan) dan status aktif ke penjual yang bisa dimatikan di Pengaturan > Sistem > Lisensi. Hanya Kode Perangkat, versi, dan status lisensi yang dikirim; tanpa data penjualan.",
   "mandatory": false,
   "minSupportedVersionCode": 0
 }
