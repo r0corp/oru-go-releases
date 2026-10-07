@@ -1,10 +1,10 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.4",
-  "apkUrl": "https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.4.apk",
-  "sha256": "66bc2404215e76e7af4ada7720d1d8dfbaef6b713f83bcdd3172d63fd2a2dc04",
+  "versionCode": 7,
+  "versionName": "1.0.5",
+  "apkUrl": "https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.5.apk",
+  "sha256": "a25d37de14ccfd54ce92b37a20b8df63deeb2b4b28b9e6701aea1e1b9f8c682f",
   "sizeBytes": 51718001,
-  "notes": "Tampilan lebih rapi di layar HP kecil (bilah atas dan tombol menu), plus penyempurnaan kecil.",
+  "notes": "Fitur baru Ganti Password (menu profil), Owner bisa mengatur ulang password karyawan lewat ikon kunci.",
   "mandatory": false,
   "minSupportedVersionCode": 0
 }
