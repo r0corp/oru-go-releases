@@ -1,10 +1,10 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.3",
-  "apkUrl": "https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.3.apk",
-  "sha256": "f11582a4b7c31ce262e4c38ee6ce61be1720b2d0487ddc23ec9b80ab555195fe",
-  "sizeBytes": 51718005,
-  "notes": "Pop-up pembaruan dan konfirmasi bergaya POS (mengikuti tema terang/gelap dan bahasa).",
+  "versionCode": 6,
+  "versionName": "1.0.4",
+  "apkUrl": "https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.4.apk",
+  "sha256": "66bc2404215e76e7af4ada7720d1d8dfbaef6b713f83bcdd3172d63fd2a2dc04",
+  "sizeBytes": 51718001,
+  "notes": "Tampilan lebih rapi di layar HP kecil (bilah atas dan tombol menu), plus penyempurnaan kecil.",
   "mandatory": false,
   "minSupportedVersionCode": 0
 }

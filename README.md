@@ -3,9 +3,9 @@
 **Aplikasi kasir (POS) untuk warung, kedai, dan toko kecil - jalan langsung di HP / tablet Android.**
 *Point-of-sale app for small shops and cafes - runs right on your Android phone or tablet.*
 
-[![Download](https://img.shields.io/badge/%E2%AC%87%20Download%20APK-v1.0.3-f97316?style=for-the-badge)](https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.3.apk)
+[![Download](https://img.shields.io/badge/%E2%AC%87%20Download%20APK-v1.0.4-f97316?style=for-the-badge)](https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.4.apk)
 
-> **1.0.3** &middot; 49 MB &middot; Android 7.0+ &middot; 06-10-2026
+> **1.0.4** &middot; 49 MB &middot; Android 7.0+ &middot; 07-10-2026
 
 <p align="center"><img src="download-qr.png" width="220" alt="QR download"><br><sub>Scan untuk mengunduh / Scan to download</sub></p>
 
@@ -36,7 +36,7 @@ Pembaruan aplikasi muncul otomatis di dalam aplikasi (Pengaturan &rarr; Sistem &
 
 ## Keamanan file / File integrity
 
-SHA-256 `f11582a4b7c31ce262e4c38ee6ce61be1720b2d0487ddc23ec9b80ab555195fe`
+SHA-256 `66bc2404215e76e7af4ada7720d1d8dfbaef6b713f83bcdd3172d63fd2a2dc04`
 
 APK ini ditandatangani **Orulabs** (sidik jari sertifikat SHA-256 `5ed6b68757b0c2092cd75e43bccc89028c58f1d61b203441c0fe75d460eb40aa`). Android hanya mau memperbarui aplikasi ini dengan APK bertanda tangan yang sama.
 
