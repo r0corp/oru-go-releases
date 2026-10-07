@@ -27,6 +27,13 @@
 
 Pembaruan aplikasi muncul otomatis di dalam aplikasi (Pengaturan &rarr; Sistem &rarr; Cek Pembaruan). Tidak perlu mengunduh ulang dari sini.
 
+## Buku panduan / User manual
+
+**[Buku Panduan Pengguna (PDF)](https://raw.githubusercontent.com/r0corp/oru-go-releases/main/manual/Panduan-Oru-POS-GO.pdf)** - langkah demi langkah, lengkap dengan gambar, untuk pemilik dan kasir.
+*Step-by-step user guide with screenshots (Indonesian).*
+
+<p align="center"><img src="manual-qr.png" width="180" alt="QR buku panduan"><br><sub>Scan untuk membuka buku panduan / Scan to open the manual</sub></p>
+
 ## Keamanan file / File integrity
 
 SHA-256 `f11582a4b7c31ce262e4c38ee6ce61be1720b2d0487ddc23ec9b80ab555195fe`
