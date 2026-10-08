@@ -20,12 +20,12 @@
 <tr>
 <td align="center"><br><a href="https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.11.apk"><b>&#11015; Unduh GO</b></a><br><sub>v1.0.11 &middot; 49 MB</sub><br><br></td>
 <td align="center"><br><a href="https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-pos-cafe-1.0.11.apk"><b>&#11015; Unduh Cafe</b></a><br><sub>v1.0.11 &middot; 49 MB</sub><br><br></td>
-<td align="center"><br>Hubungi penjual<br><sub>pemasangan di lokasi</sub><br><br></td>
+<td align="center"><br><a href="https://wa.me/6281388611977?text=Halo%2C%20saya%20tertarik%20dengan%20Oru%20POS%20dan%20ingin%20bertanya."><b>&#128172; Hubungi penjual</b></a><br><sub>lewat WhatsApp &middot; pemasangan di lokasi</sub><br><br></td>
 </tr>
 <tr>
 <td align="center"><br><img src="download-qr.png" width="190" alt="QR download GO"><br><sub>Scan untuk mengunduh</sub><br><br></td>
 <td align="center"><br><img src="cafe-qr.png" width="190" alt="QR download Cafe"><br><sub>Scan untuk mengunduh</sub><br><br></td>
-<td align="center">&nbsp;</td>
+<td align="center"><br><img src="wa-qr.png" width="190" alt="QR WhatsApp penjual"><br><sub>Scan untuk chat WhatsApp</sub><br><br></td>
 </tr>
 </table>
 </div>
