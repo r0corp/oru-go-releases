@@ -1,10 +1,10 @@
 {
-  "versionCode": 13,
-  "versionName": "1.0.11",
-  "apkUrl": "https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.11.apk",
-  "sha256": "3ddea69fab1aa5941a79b2eb2161e1ca00556cbbd19150944158de90af5a5167",
+  "versionCode": 14,
+  "versionName": "1.0.12",
+  "apkUrl": "https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.12.apk",
+  "sha256": "4248ae66218440919b4aed2d7388c219c9bbd409e33535de7e405749a3f0857e",
   "sizeBytes": 51881577,
-  "notes": "Perbaikan: Meja otomatis dimatikan di Oru POS GO (bisa dinyalakan lagi di Pengaturan), logo edisi tampil di layar login, logo di halaman aktivasi tampil benar, dan penyempurnaan kecil.",
+  "notes": "Perbaikan: Oru POS GO dan Oru POS Cafe kini memakai port berbeda sehingga bisa terpasang dan berjalan bersamaan di HP yang sama. Judul halaman aktivasi sesuai edisi.",
   "mandatory": false,
   "minSupportedVersionCode": 0,
   "releasedAt": "08-10-2026"

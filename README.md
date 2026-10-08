@@ -18,8 +18,8 @@
 <td align="center" valign="top"><br><b>Resto &amp; banyak perangkat</b><br><br>Server mini PC + tablet<br>Dipasang oleh penjual<br><br></td>
 </tr>
 <tr>
-<td align="center"><br><a href="https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.11.apk"><b>&#11015; Unduh GO</b></a><br><sub>v1.0.11 &middot; 49 MB</sub><br><br></td>
-<td align="center"><br><a href="https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-pos-cafe-1.0.11.apk"><b>&#11015; Unduh Cafe</b></a><br><sub>v1.0.11 &middot; 49 MB</sub><br><br></td>
+<td align="center"><br><a href="https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.12.apk"><b>&#11015; Unduh GO</b></a><br><sub>v1.0.12 &middot; 49 MB</sub><br><br></td>
+<td align="center"><br><a href="https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-pos-cafe-1.0.12.apk"><b>&#11015; Unduh Cafe</b></a><br><sub>v1.0.12 &middot; 49 MB</sub><br><br></td>
 <td align="center"><br><a href="https://wa.me/6281388611977?text=Halo%2C%20saya%20tertarik%20dengan%20Oru%20POS%20dan%20ingin%20bertanya."><b>&#128172; Hubungi penjual</b></a><br><sub>lewat WhatsApp &middot; pemasangan di lokasi</sub><br><br></td>
 </tr>
 <tr>
@@ -31,7 +31,7 @@
 </div>
 
 
-> Android 7.0 ke atas &middot; GO v1.0.11 (08-10-2026) &middot; Cafe v1.0.11 (08-10-2026)
+> Android 7.0 ke atas &middot; GO v1.0.12 (08-10-2026) &middot; Cafe v1.0.12 (08-10-2026)
 >
 > **Cafe:** HP atau tablet kasir menjadi servernya, jadi biarkan aplikasinya terbuka dan tercolok charger. GO dan Cafe adalah aplikasi terpisah (boleh terpasang di HP yang sama); Kode Aktivasi tidak saling tukar.
 
@@ -70,8 +70,8 @@ Pembaruan aplikasi muncul otomatis di dalam aplikasi (Pengaturan &rarr; Sistem &
 
 ## Keamanan file / File integrity
 
-- GO: SHA-256 `3ddea69fab1aa5941a79b2eb2161e1ca00556cbbd19150944158de90af5a5167`
-- Cafe: SHA-256 `8449a09c00dc9f0a039f33e011163839ee0c73bb4d3e98f8c830da2cd7db904d`
+- GO: SHA-256 `4248ae66218440919b4aed2d7388c219c9bbd409e33535de7e405749a3f0857e`
+- Cafe: SHA-256 `f9d374943274900ada6c54e1b64a6f1174f95c12757735966ebb7e7dad82e820`
 
 APK ditandatangani **Orulabs** (sidik jari sertifikat SHA-256 `5ed6b68757b0c2092cd75e43bccc89028c58f1d61b203441c0fe75d460eb40aa`). Android hanya mau memperbarui aplikasi ini dengan APK bertanda tangan yang sama.
 
