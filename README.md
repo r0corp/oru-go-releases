@@ -3,6 +3,14 @@
 **Aplikasi kasir (POS) untuk gerobak, warung, dan mini cafe - jalan langsung di HP / tablet Android.**
 *Point-of-sale apps for street stalls, small shops, and cafes - running right on your Android phone or tablet.*
 
+## Pilih edisi / Choose your edition
+
+| **Oru POS GO** | **Oru POS Cafe** | **Oru POS PRO** |
+|:---|:---|:---|
+| **Gerobak & warung**<br>Satu HP, tanpa meja<br>Pilih menu, tekan Bayar | **Mini cafe**<br>2-3 HP/tablet satu WiFi<br>Meja, dapur, dan kasir | **Resto & banyak perangkat**<br>Server mini PC + tablet<br>Dipasang oleh penjual |
+| [**&#11015; Unduh GO**](https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.11.apk)<br><sub>v1.0.11 &middot; 49 MB</sub> | [**&#11015; Unduh Cafe**](https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-pos-cafe-1.0.11.apk)<br><sub>v1.0.11 &middot; 49 MB</sub> | Hubungi penjual<br><sub>pemasangan di lokasi</sub> |
+
+
 ## Oru POS GO &mdash; gerobak & warung
 
 Satu HP, tanpa meja dan tanpa WiFi. Pilih menu, tekan **Bayar**, struk langsung jadi.
