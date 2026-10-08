@@ -12,24 +12,10 @@
 | <img src="download-qr.png" width="150" alt="QR download GO"><br><sub>Scan untuk mengunduh</sub> | <img src="cafe-qr.png" width="150" alt="QR download Cafe"><br><sub>Scan untuk mengunduh</sub> | &nbsp; |
 
 
-## Oru POS GO &mdash; gerobak & warung
+> Android 7.0 ke atas &middot; GO v1.0.11 (08-10-2026) &middot; Cafe v1.0.11 (08-10-2026)
+>
+> **Cafe:** HP atau tablet kasir menjadi servernya, jadi biarkan aplikasinya terbuka dan tercolok charger. GO dan Cafe adalah aplikasi terpisah (boleh terpasang di HP yang sama); Kode Aktivasi tidak saling tukar.
 
-Satu HP, tanpa meja dan tanpa WiFi. Pilih menu, tekan **Bayar**, struk langsung jadi.
-
-[![Download GO](https://img.shields.io/badge/%E2%AC%87%20Download%20GO-v1.0.11-f97316?style=for-the-badge)](https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.11.apk)
-
-> **1.0.11** &middot; 49 MB &middot; Android 7.0+ &middot; 08-10-2026
-
-
-## Oru POS Cafe &mdash; mini cafe
-
-Meja, layar dapur, sampai 3 pengguna, dan tablet dapur/kasir lain yang tersambung lewat WiFi toko. HP atau tablet kasir menjadi servernya; biarkan aplikasinya terbuka dan tercolok charger.
-
-[![Download Cafe](https://img.shields.io/badge/%E2%AC%87%20Download%20Cafe-v1.0.11-f97316?style=for-the-badge)](https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-pos-cafe-1.0.11.apk)
-
-> **1.0.11** &middot; 49 MB &middot; Android 7.0+ &middot; 08-10-2026
-
-Cafe dan GO adalah aplikasi terpisah; keduanya boleh terpasang di HP yang sama. Kode Aktivasi tidak saling tukar.
 
 ## iPhone / iOS
 
