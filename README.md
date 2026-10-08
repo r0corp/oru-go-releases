@@ -9,6 +9,7 @@
 |:---|:---|:---|
 | **Gerobak & warung**<br>Satu HP, tanpa meja<br>Pilih menu, tekan Bayar | **Mini cafe**<br>2-3 HP/tablet satu WiFi<br>Meja, dapur, dan kasir | **Resto & banyak perangkat**<br>Server mini PC + tablet<br>Dipasang oleh penjual |
 | [**&#11015; Unduh GO**](https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.11.apk)<br><sub>v1.0.11 &middot; 49 MB</sub> | [**&#11015; Unduh Cafe**](https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-pos-cafe-1.0.11.apk)<br><sub>v1.0.11 &middot; 49 MB</sub> | Hubungi penjual<br><sub>pemasangan di lokasi</sub> |
+| <img src="download-qr.png" width="150" alt="QR download GO"><br><sub>Scan untuk mengunduh</sub> | <img src="cafe-qr.png" width="150" alt="QR download Cafe"><br><sub>Scan untuk mengunduh</sub> | &nbsp; |
 
 
 ## Oru POS GO &mdash; gerobak & warung
@@ -19,7 +20,6 @@ Satu HP, tanpa meja dan tanpa WiFi. Pilih menu, tekan **Bayar**, struk langsung 
 
 > **1.0.11** &middot; 49 MB &middot; Android 7.0+ &middot; 08-10-2026
 
-<p align="center"><img src="download-qr.png" width="200" alt="QR download GO"><br><sub>Scan untuk mengunduh GO / Scan to download GO</sub></p>
 
 ## Oru POS Cafe &mdash; mini cafe
 
@@ -28,8 +28,6 @@ Meja, layar dapur, sampai 3 pengguna, dan tablet dapur/kasir lain yang tersambun
 [![Download Cafe](https://img.shields.io/badge/%E2%AC%87%20Download%20Cafe-v1.0.11-f97316?style=for-the-badge)](https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-pos-cafe-1.0.11.apk)
 
 > **1.0.11** &middot; 49 MB &middot; Android 7.0+ &middot; 08-10-2026
-
-<p align="center"><img src="cafe-qr.png" width="200" alt="QR download Cafe"><br><sub>Scan untuk mengunduh Cafe / Scan to download Cafe</sub></p>
 
 Cafe dan GO adalah aplikasi terpisah; keduanya boleh terpasang di HP yang sama. Kode Aktivasi tidak saling tukar.
 
