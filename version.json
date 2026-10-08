@@ -1,10 +1,10 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.9",
-  "apkUrl": "https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.9.apk",
-  "sha256": "369e9e0b782573bafbbbfbc40cf67f1d4965eb35cf9be2640c4c50d80d4f07d2",
-  "sizeBytes": 51767177,
-  "notes": "Baru: tombol Bayar langsung (Tunai atau QRIS) di layar pesanan supaya jual lebih cepat, menu Pengguna dipindah ke Pengaturan (tab Sistem), Meja dan Info WiFi disembunyikan untuk toko baru (bisa dinyalakan di Pengaturan), dan tampilan Dashboard lebih rapi di HP dan tablet.",
+  "versionCode": 12,
+  "versionName": "1.0.10",
+  "apkUrl": "https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.10.apk",
+  "sha256": "74484c403673962b2ae197577b34c02e58b2996162820d82a20c7494fe99f096",
+  "sizeBytes": 51881325,
+  "notes": "Perbaikan: fitur Meja otomatis disembunyikan untuk toko yang belum pernah membuat meja (bisa dinyalakan lagi di Pengaturan, tab Aplikasi). Logo dan ikon sesuai edisi. Penyempurnaan kecil lainnya.",
   "mandatory": false,
   "minSupportedVersionCode": 0
 }
