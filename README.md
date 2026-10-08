@@ -41,8 +41,6 @@
 **[Panduan pasang untuk iPhone (uji coba)](https://github.com/r0corp/POS_Cafe_Retail/blob/main/ios-app-umkm/INSTALL-IPHONE.md)**
 Versi uji coba: dipasang lewat komputer dengan Apple ID gratis (Sideloadly atau AltStore), berlaku 7 hari. Cocok untuk mencoba, bukan untuk pelanggan umum. Versi resmi TestFlight/App Store belum tersedia.
 
-<p align="center"><img src="ios-qr.png" width="200" alt="QR iPhone"><br><sub>Scan dengan kamera iPhone / Scan with your iPhone camera</sub></p>
-
 ## Yang didapat / What you get
 
 - Kasir dengan pembayaran **Tunai** dan **QRIS**, struk (printer Bluetooth), dan riwayat transaksi
