@@ -5,11 +5,28 @@
 
 ## Pilih edisi / Choose your edition
 
-| **Oru POS GO** | **Oru POS Cafe** | **Oru POS PRO** |
-|:---|:---|:---|
-| **Gerobak & warung**<br>Satu HP, tanpa meja<br>Pilih menu, tekan Bayar | **Mini cafe**<br>2-3 HP/tablet satu WiFi<br>Meja, dapur, dan kasir | **Resto & banyak perangkat**<br>Server mini PC + tablet<br>Dipasang oleh penjual |
-| [**&#11015; Unduh GO**](https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.11.apk)<br><sub>v1.0.11 &middot; 49 MB</sub> | [**&#11015; Unduh Cafe**](https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-pos-cafe-1.0.11.apk)<br><sub>v1.0.11 &middot; 49 MB</sub> | Hubungi penjual<br><sub>pemasangan di lokasi</sub> |
-| <img src="download-qr.png" width="150" alt="QR download GO"><br><sub>Scan untuk mengunduh</sub> | <img src="cafe-qr.png" width="150" alt="QR download Cafe"><br><sub>Scan untuk mengunduh</sub> | &nbsp; |
+<table width="100%">
+<tr>
+<th align="center" width="33%">Oru POS GO</th>
+<th align="center" width="34%">Oru POS Cafe</th>
+<th align="center" width="33%">Oru POS PRO</th>
+</tr>
+<tr>
+<td align="center" valign="top"><br><b>Gerobak &amp; warung</b><br><br>Satu HP, tanpa meja<br>Pilih menu, tekan Bayar<br><br></td>
+<td align="center" valign="top"><br><b>Mini cafe</b><br><br>2-3 HP/tablet satu WiFi<br>Meja, dapur, dan kasir<br><br></td>
+<td align="center" valign="top"><br><b>Resto &amp; banyak perangkat</b><br><br>Server mini PC + tablet<br>Dipasang oleh penjual<br><br></td>
+</tr>
+<tr>
+<td align="center"><br><a href="https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.11.apk"><b>&#11015; Unduh GO</b></a><br><sub>v1.0.11 &middot; 49 MB</sub><br><br></td>
+<td align="center"><br><a href="https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-pos-cafe-1.0.11.apk"><b>&#11015; Unduh Cafe</b></a><br><sub>v1.0.11 &middot; 49 MB</sub><br><br></td>
+<td align="center"><br>Hubungi penjual<br><sub>pemasangan di lokasi</sub><br><br></td>
+</tr>
+<tr>
+<td align="center"><br><img src="download-qr.png" width="170" alt="QR download GO"><br><sub>Scan untuk mengunduh</sub><br><br></td>
+<td align="center"><br><img src="cafe-qr.png" width="170" alt="QR download Cafe"><br><sub>Scan untuk mengunduh</sub><br><br></td>
+<td align="center">&nbsp;</td>
+</tr>
+</table>
 
 
 > Android 7.0 ke atas &middot; GO v1.0.11 (08-10-2026) &middot; Cafe v1.0.11 (08-10-2026)
