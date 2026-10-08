@@ -73,12 +73,12 @@ Langkah demi langkah, lengkap dengan gambar, untuk pemilik, kasir, pelayan, dan 
 <tr>
 <td align="center"><br><a href="https://raw.githubusercontent.com/r0corp/oru-go-releases/main/manual/Panduan-Oru-POS-GO.pdf"><b>&#128214; Buka PDF GO</b></a><br><sub>gerobak &amp; warung</sub><br><br></td>
 <td align="center"><br><a href="https://raw.githubusercontent.com/r0corp/oru-go-releases/main/manual/Panduan-Oru-POS-Cafe.pdf"><b>&#128214; Buka PDF Cafe</b></a><br><sub>mini cafe: meja, dapur, kasir</sub><br><br></td>
-<td align="center"><br>Diberikan penjual<br><sub>saat pemasangan di lokasi</sub><br><br></td>
+<td align="center"><br><a href="https://wa.me/6281388611977?text=Halo%2C%20saya%20ingin%20meminta%20buku%20panduan%20Oru%20POS%20PRO."><b>&#128196; Minta panduan PRO</b></a><br><sub>kirim permintaan lewat WhatsApp</sub><br><br></td>
 </tr>
 <tr>
 <td align="center"><br><img src="manual-qr.png" width="190" alt="QR buku panduan GO"><br><sub>Scan untuk membuka panduan GO</sub><br><br></td>
 <td align="center"><br><img src="manual-cafe-qr.png" width="190" alt="QR buku panduan Cafe"><br><sub>Scan untuk membuka panduan Cafe</sub><br><br></td>
-<td align="center">&nbsp;</td>
+<td align="center"><br><img src="wa-panduan-pro-qr.png" width="190" alt="QR minta panduan PRO"><br><sub>Scan untuk meminta panduan PRO</sub><br><br></td>
 </tr>
 </table>
 </div>
