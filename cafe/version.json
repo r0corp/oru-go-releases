@@ -1,0 +1,11 @@
+{
+  "versionCode": 13,
+  "versionName": "1.0.11",
+  "apkUrl": "https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-pos-cafe-1.0.11.apk",
+  "sha256": "8449a09c00dc9f0a039f33e011163839ee0c73bb4d3e98f8c830da2cd7db904d",
+  "sizeBytes": 51881601,
+  "notes": "Rilis pertama Oru POS Cafe untuk mini cafe: meja, layar dapur, sampai 3 pengguna, dan tablet dapur atau kasir lain lewat WiFi toko.",
+  "mandatory": false,
+  "minSupportedVersionCode": 0,
+  "releasedAt": "08-10-2026"
+}

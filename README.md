@@ -1,13 +1,29 @@
-# Oru POS GO
+# Oru POS
 
-**Aplikasi kasir (POS) untuk warung, kedai, dan toko kecil - jalan langsung di HP / tablet Android.**
-*Point-of-sale app for small shops and cafes - runs right on your Android phone or tablet.*
+**Aplikasi kasir (POS) untuk gerobak, warung, dan mini cafe - jalan langsung di HP / tablet Android.**
+*Point-of-sale apps for street stalls, small shops, and cafes - running right on your Android phone or tablet.*
 
-[![Download](https://img.shields.io/badge/%E2%AC%87%20Download%20APK-v1.0.10-f97316?style=for-the-badge)](https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.10.apk)
+## Oru POS GO &mdash; gerobak & warung
 
-> **1.0.10** &middot; 49 MB &middot; Android 7.0+ &middot; 08-10-2026
+Satu HP, tanpa meja dan tanpa WiFi. Pilih menu, tekan **Bayar**, struk langsung jadi.
 
-<p align="center"><img src="download-qr.png" width="220" alt="QR download"><br><sub>Scan untuk mengunduh / Scan to download</sub></p>
+[![Download GO](https://img.shields.io/badge/%E2%AC%87%20Download%20GO-v1.0.11-f97316?style=for-the-badge)](https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.11.apk)
+
+> **1.0.11** &middot; 49 MB &middot; Android 7.0+ &middot; 08-10-2026
+
+<p align="center"><img src="download-qr.png" width="200" alt="QR download GO"><br><sub>Scan untuk mengunduh GO / Scan to download GO</sub></p>
+
+## Oru POS Cafe &mdash; mini cafe
+
+Meja, layar dapur, sampai 3 pengguna, dan tablet dapur/kasir lain yang tersambung lewat WiFi toko. HP atau tablet kasir menjadi servernya; biarkan aplikasinya terbuka dan tercolok charger.
+
+[![Download Cafe](https://img.shields.io/badge/%E2%AC%87%20Download%20Cafe-v1.0.11-f97316?style=for-the-badge)](https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-pos-cafe-1.0.11.apk)
+
+> **1.0.11** &middot; 49 MB &middot; Android 7.0+ &middot; 08-10-2026
+
+<p align="center"><img src="cafe-qr.png" width="200" alt="QR download Cafe"><br><sub>Scan untuk mengunduh Cafe / Scan to download Cafe</sub></p>
+
+Cafe dan GO adalah aplikasi terpisah; keduanya boleh terpasang di HP yang sama. Kode Aktivasi tidak saling tukar.
 
 ## iPhone / iOS
 
@@ -20,7 +36,7 @@ Versi uji coba: dipasang lewat komputer dengan Apple ID gratis (Sideloadly atau 
 
 - Kasir dengan pembayaran **Tunai** dan **QRIS**, struk (printer Bluetooth), dan riwayat transaksi
 - Menu & kategori, stok bahan baku, laporan harian / mingguan / bulanan (Excel & PDF)
-- Beberapa akun staf dengan hak akses berbeda
+- Akun staf dengan hak akses berbeda
 - Dua bahasa (Indonesia / English), tema terang / gelap
 - Data tersimpan di perangkat Anda sendiri, **tanpa langganan server**
 - **Coba gratis 7 hari**, lanjut dengan kode aktivasi dari penjual
@@ -29,23 +45,24 @@ Versi uji coba: dipasang lewat komputer dengan Apple ID gratis (Sideloadly atau 
 
 1. Buka link unduhan di HP Android Anda, lalu unduh file APK. Kalau peramban memperingatkan file APK, pilih **Tetap unduh**.
 2. Buka file yang terunduh. Android akan meminta izin **"Instal dari sumber ini"** - izinkan satu kali untuk peramban Anda.
-3. Tekan **Instal**, lalu buka **Oru POS GO**. Login awal ada di petunjuk dari penjual.
-4. Masa percobaan 7 hari langsung berjalan. Untuk lanjut setelahnya, buka **Aktifkan Lisensi**, kirim **Kode Perangkat** ke penjual, lalu tempel **Kode Aktivasi** yang Anda terima.
+3. Tekan **Instal**, lalu buka aplikasinya. Login awal ada di petunjuk dari penjual.
+4. Masa percobaan 7 hari langsung berjalan. Untuk lanjut setelahnya, buka **Aktifkan Lisensi**, kirim **Kode Perangkat** ke penjual, lalu tempel **Kode Aktivasi** yang Anda terima. Kode GO dan kode Cafe berbeda; pastikan penjual membuatkan untuk edisi yang Anda pasang.
 
 Pembaruan aplikasi muncul otomatis di dalam aplikasi (Pengaturan &rarr; Sistem &rarr; Cek Pembaruan). Tidak perlu mengunduh ulang dari sini.
 
 ## Buku panduan / User manual
 
-**[Buku Panduan Pengguna (PDF)](https://raw.githubusercontent.com/r0corp/oru-go-releases/main/manual/Panduan-Oru-POS-GO.pdf)** - langkah demi langkah, lengkap dengan gambar, untuk pemilik dan kasir.
+**[Buku Panduan Pengguna (PDF)](https://raw.githubusercontent.com/r0corp/oru-go-releases/main/manual/Panduan-Oru-POS-GO.pdf)** - langkah demi langkah, lengkap dengan gambar, untuk pemilik dan kasir (ditulis untuk GO; Cafe memakai dasar yang sama).
 *Step-by-step user guide with screenshots (Indonesian).*
 
 <p align="center"><img src="manual-qr.png" width="180" alt="QR buku panduan"><br><sub>Scan untuk membuka buku panduan / Scan to open the manual</sub></p>
 
 ## Keamanan file / File integrity
 
-SHA-256 `74484c403673962b2ae197577b34c02e58b2996162820d82a20c7494fe99f096`
+- GO: SHA-256 `3ddea69fab1aa5941a79b2eb2161e1ca00556cbbd19150944158de90af5a5167`
+- Cafe: SHA-256 `8449a09c00dc9f0a039f33e011163839ee0c73bb4d3e98f8c830da2cd7db904d`
 
-APK ini ditandatangani **Orulabs** (sidik jari sertifikat SHA-256 `5ed6b68757b0c2092cd75e43bccc89028c58f1d61b203441c0fe75d460eb40aa`). Android hanya mau memperbarui aplikasi ini dengan APK bertanda tangan yang sama.
+APK ditandatangani **Orulabs** (sidik jari sertifikat SHA-256 `5ed6b68757b0c2092cd75e43bccc89028c58f1d61b203441c0fe75d460eb40aa`). Android hanya mau memperbarui aplikasi ini dengan APK bertanda tangan yang sama.
 
 ---
 &copy; Orulabs

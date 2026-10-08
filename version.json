@@ -1,10 +1,11 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.10",
-  "apkUrl": "https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.10.apk",
-  "sha256": "74484c403673962b2ae197577b34c02e58b2996162820d82a20c7494fe99f096",
-  "sizeBytes": 51881325,
-  "notes": "Perbaikan: fitur Meja otomatis disembunyikan untuk toko yang belum pernah membuat meja (bisa dinyalakan lagi di Pengaturan, tab Aplikasi). Logo dan ikon sesuai edisi. Penyempurnaan kecil lainnya.",
+  "versionCode": 13,
+  "versionName": "1.0.11",
+  "apkUrl": "https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.11.apk",
+  "sha256": "3ddea69fab1aa5941a79b2eb2161e1ca00556cbbd19150944158de90af5a5167",
+  "sizeBytes": 51881577,
+  "notes": "Perbaikan: Meja otomatis dimatikan di Oru POS GO (bisa dinyalakan lagi di Pengaturan), logo edisi tampil di layar login, logo di halaman aktivasi tampil benar, dan penyempurnaan kecil.",
   "mandatory": false,
-  "minSupportedVersionCode": 0
+  "minSupportedVersionCode": 0,
+  "releasedAt": "08-10-2026"
 }
