@@ -18,9 +18,9 @@
 <td align="center" valign="top"><br><b>Resto &amp; banyak perangkat</b><br><br>Server mini PC + tablet<br>Dipasang oleh penjual<br><br></td>
 </tr>
 <tr>
-<td align="center"><br><a href="https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.12.apk"><b>&#11015; Unduh GO</b></a><br><sub>v1.0.12 &middot; 49 MB</sub><br><br></td>
-<td align="center"><br><a href="https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-pos-cafe-1.0.12.apk"><b>&#11015; Unduh Cafe</b></a><br><sub>v1.0.12 &middot; 49 MB</sub><br><br></td>
-<td align="center"><br><a href="https://wa.me/6281388611977?text=Halo%2C%20saya%20tertarik%20dengan%20Oru%20POS%20dan%20ingin%20bertanya."><b>&#128172; Hubungi penjual</b></a><br><sub>lewat WhatsApp &middot; pemasangan di lokasi</sub><br><br></td>
+<td align="center"><br><a href="https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.12.apk"><img src="btn-unduh-go.png" width="220" alt="Unduh GO"></a><br><sub>v1.0.12 &middot; 49 MB</sub><br><br></td>
+<td align="center"><br><a href="https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-pos-cafe-1.0.12.apk"><img src="btn-unduh-cafe.png" width="220" alt="Unduh Cafe"></a><br><sub>v1.0.12 &middot; 49 MB</sub><br><br></td>
+<td align="center"><br><a href="https://wa.me/6281388611977?text=Halo%2C%20saya%20tertarik%20dengan%20Oru%20POS%20dan%20ingin%20bertanya."><img src="btn-hubungi.png" width="220" alt="Hubungi penjual"></a><br><sub>lewat WhatsApp &middot; pemasangan di lokasi</sub><br><br></td>
 </tr>
 <tr>
 <td align="center"><br><img src="download-qr.png" width="190" alt="QR download GO"><br><sub>Scan untuk mengunduh</sub><br><br></td>
@@ -71,9 +71,9 @@ Langkah demi langkah, lengkap dengan gambar, untuk pemilik, kasir, pelayan, dan 
 <th align="center" width="270"><img src="hdr-panduan-pro.png" width="250" alt="Panduan Oru POS PRO"></th>
 </tr>
 <tr>
-<td align="center"><br><a href="https://raw.githubusercontent.com/r0corp/oru-go-releases/main/manual/Panduan-Oru-POS-GO.pdf"><b>&#128214; Buka PDF GO</b></a><br><sub>gerobak &amp; warung</sub><br><br></td>
-<td align="center"><br><a href="https://raw.githubusercontent.com/r0corp/oru-go-releases/main/manual/Panduan-Oru-POS-Cafe.pdf"><b>&#128214; Buka PDF Cafe</b></a><br><sub>mini cafe: meja, dapur, kasir</sub><br><br></td>
-<td align="center"><br><a href="https://wa.me/6281388611977?text=Halo%2C%20saya%20ingin%20meminta%20buku%20panduan%20Oru%20POS%20PRO."><b>&#128196; Minta panduan PRO</b></a><br><sub>kirim permintaan lewat WhatsApp</sub><br><br></td>
+<td align="center"><br><a href="https://raw.githubusercontent.com/r0corp/oru-go-releases/main/manual/Panduan-Oru-POS-GO.pdf"><img src="btn-pdf-go.png" width="220" alt="Buka PDF GO"></a><br><sub>gerobak &amp; warung</sub><br><br></td>
+<td align="center"><br><a href="https://raw.githubusercontent.com/r0corp/oru-go-releases/main/manual/Panduan-Oru-POS-Cafe.pdf"><img src="btn-pdf-cafe.png" width="220" alt="Buka PDF Cafe"></a><br><sub>mini cafe: meja, dapur, kasir</sub><br><br></td>
+<td align="center"><br><a href="https://wa.me/6281388611977?text=Halo%2C%20saya%20ingin%20meminta%20buku%20panduan%20Oru%20POS%20PRO."><img src="btn-minta-pro.png" width="220" alt="Minta panduan PRO"></a><br><sub>kirim permintaan lewat WhatsApp</sub><br><br></td>
 </tr>
 <tr>
 <td align="center"><br><img src="manual-qr.png" width="190" alt="QR buku panduan GO"><br><sub>Scan untuk membuka panduan GO</sub><br><br></td>
