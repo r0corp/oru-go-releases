@@ -1,10 +1,10 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.8",
-  "apkUrl": "https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.8.apk",
-  "sha256": "61009bb8ed4300a26dbffbdf79b1751d33a28e754403c1753941e8421c4ad08d",
-  "sizeBytes": 51767157,
-  "notes": "Perbaikan tampilan Dashboard di HP dan tablet: kartu penjualan lebih lega (nominal besar tidak keluar kartu) dan tombol menu tidak lagi terpotong.",
+  "versionCode": 11,
+  "versionName": "1.0.9",
+  "apkUrl": "https://raw.githubusercontent.com/r0corp/oru-go-releases/main/apk/oru-go-1.0.9.apk",
+  "sha256": "369e9e0b782573bafbbbfbc40cf67f1d4965eb35cf9be2640c4c50d80d4f07d2",
+  "sizeBytes": 51767177,
+  "notes": "Baru: tombol Bayar langsung (Tunai atau QRIS) di layar pesanan supaya jual lebih cepat, menu Pengguna dipindah ke Pengaturan (tab Sistem), Meja dan Info WiFi disembunyikan untuk toko baru (bisa dinyalakan di Pengaturan), dan tampilan Dashboard lebih rapi di HP dan tablet.",
   "mandatory": false,
   "minSupportedVersionCode": 0
 }
