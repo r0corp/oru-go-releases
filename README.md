@@ -63,7 +63,7 @@ Pembaruan aplikasi muncul otomatis di dalam aplikasi (Pengaturan &rarr; Sistem &
 
 ## Buku panduan / User manual
 
-**[Buku Panduan Pengguna (PDF)](https://raw.githubusercontent.com/r0corp/oru-go-releases/main/manual/Panduan-Oru-POS-GO.pdf)** - langkah demi langkah, lengkap dengan gambar, untuk pemilik dan kasir (ditulis untuk GO; Cafe memakai dasar yang sama).
+**[Buku Panduan Oru POS GO (PDF)](https://raw.githubusercontent.com/r0corp/oru-go-releases/main/manual/Panduan-Oru-POS-GO.pdf)** dan **[Buku Panduan Oru POS Cafe (PDF)](https://raw.githubusercontent.com/r0corp/oru-go-releases/main/manual/Panduan-Oru-POS-Cafe.pdf)** - langkah demi langkah, lengkap dengan gambar, untuk pemilik, kasir, pelayan, dan dapur.
 *Step-by-step user guide with screenshots (Indonesian).*
 
 <p align="center"><img src="manual-qr.png" width="180" alt="QR buku panduan"><br><sub>Scan untuk membuka buku panduan / Scan to open the manual</sub></p>
