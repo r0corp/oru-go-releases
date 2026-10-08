@@ -5,11 +5,12 @@
 
 ## Pilih edisi / Choose your edition
 
-<table width="100%">
+<div align="center">
+<table>
 <tr>
-<th align="center" width="33%">Oru POS GO</th>
-<th align="center" width="34%">Oru POS Cafe</th>
-<th align="center" width="33%">Oru POS PRO</th>
+<th align="center" width="270">Oru POS GO</th>
+<th align="center" width="270">Oru POS Cafe</th>
+<th align="center" width="270">Oru POS PRO</th>
 </tr>
 <tr>
 <td align="center" valign="top"><br><b>Gerobak &amp; warung</b><br><br>Satu HP, tanpa meja<br>Pilih menu, tekan Bayar<br><br></td>
@@ -22,11 +23,12 @@
 <td align="center"><br>Hubungi penjual<br><sub>pemasangan di lokasi</sub><br><br></td>
 </tr>
 <tr>
-<td align="center"><br><img src="download-qr.png" width="170" alt="QR download GO"><br><sub>Scan untuk mengunduh</sub><br><br></td>
-<td align="center"><br><img src="cafe-qr.png" width="170" alt="QR download Cafe"><br><sub>Scan untuk mengunduh</sub><br><br></td>
+<td align="center"><br><img src="download-qr.png" width="190" alt="QR download GO"><br><sub>Scan untuk mengunduh</sub><br><br></td>
+<td align="center"><br><img src="cafe-qr.png" width="190" alt="QR download Cafe"><br><sub>Scan untuk mengunduh</sub><br><br></td>
 <td align="center">&nbsp;</td>
 </tr>
 </table>
+</div>
 
 
 > Android 7.0 ke atas &middot; GO v1.0.11 (08-10-2026) &middot; Cafe v1.0.11 (08-10-2026)
