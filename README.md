@@ -6,10 +6,8 @@
 ## Pilih edisi / Choose your edition
 
 <div align="center">
+<picture><source media="(max-width: 700px)" srcset="hdr-edisi-m.png"><img src="hdr-edisi.png" width="811" align="top" alt="Oru POS GO | Oru POS Cafe | Oru POS PRO"></picture>
 <table>
-<tr>
-<th colspan="3" align="center"><img src="hdr-edisi.png" width="784" alt="Oru POS GO | Oru POS Cafe | Oru POS PRO"></th>
-</tr>
 <tr>
 <td width="270" align="center" valign="top"><br><b>Gerobak &amp; warung</b><br><br>Satu HP, tanpa meja<br>Pilih menu, tekan Bayar<br><br></td>
 <td width="270" align="center" valign="top"><br><b>Mini cafe</b><br><br>2-3 HP/tablet satu WiFi<br>Meja, dapur, dan kasir<br><br></td>
@@ -62,10 +60,8 @@ Pembaruan aplikasi muncul otomatis di dalam aplikasi (Pengaturan &rarr; Sistem &
 Langkah demi langkah, lengkap dengan gambar, untuk pemilik, kasir, pelayan, dan dapur. *Step-by-step guides with screenshots (Indonesian).*
 
 <div align="center">
+<picture><source media="(max-width: 700px)" srcset="hdr-panduan-m.png"><img src="hdr-panduan.png" width="811" align="top" alt="Panduan GO | Panduan Cafe | Panduan PRO"></picture>
 <table>
-<tr>
-<th colspan="3" align="center"><img src="hdr-panduan.png" width="784" alt="Panduan GO | Panduan Cafe | Panduan PRO"></th>
-</tr>
 <tr>
 <td width="270" align="center"><br><a href="https://raw.githubusercontent.com/r0corp/oru-go-releases/main/manual/Panduan-Oru-POS-GO.pdf"><img src="btn-pdf-go.png" width="220" alt="Buka PDF GO"></a><br><sub>gerobak &amp; warung</sub><br><br></td>
 <td width="270" align="center"><br><a href="https://raw.githubusercontent.com/r0corp/oru-go-releases/main/manual/Panduan-Oru-POS-Cafe.pdf"><img src="btn-pdf-cafe.png" width="220" alt="Buka PDF Cafe"></a><br><sub>mini cafe: meja, dapur, kasir</sub><br><br></td>
