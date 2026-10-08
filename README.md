@@ -8,9 +8,9 @@
 <div align="center">
 <table>
 <tr>
-<th align="center" width="270">Oru POS GO</th>
-<th align="center" width="270">Oru POS Cafe</th>
-<th align="center" width="270">Oru POS PRO</th>
+<th align="center" width="270"><img src="hdr-go.png" width="250" alt="Oru POS GO"></th>
+<th align="center" width="270"><img src="hdr-cafe.png" width="250" alt="Oru POS Cafe"></th>
+<th align="center" width="270"><img src="hdr-pro.png" width="250" alt="Oru POS PRO"></th>
 </tr>
 <tr>
 <td align="center" valign="top"><br><b>Gerobak &amp; warung</b><br><br>Satu HP, tanpa meja<br>Pilih menu, tekan Bayar<br><br></td>
@@ -66,9 +66,9 @@ Langkah demi langkah, lengkap dengan gambar, untuk pemilik, kasir, pelayan, dan 
 <div align="center">
 <table>
 <tr>
-<th align="center" width="270">Panduan Oru POS GO</th>
-<th align="center" width="270">Panduan Oru POS Cafe</th>
-<th align="center" width="270">Panduan Oru POS PRO</th>
+<th align="center" width="270"><img src="hdr-panduan-go.png" width="250" alt="Panduan Oru POS GO"></th>
+<th align="center" width="270"><img src="hdr-panduan-cafe.png" width="250" alt="Panduan Oru POS Cafe"></th>
+<th align="center" width="270"><img src="hdr-panduan-pro.png" width="250" alt="Panduan Oru POS PRO"></th>
 </tr>
 <tr>
 <td align="center"><br><a href="https://raw.githubusercontent.com/r0corp/oru-go-releases/main/manual/Panduan-Oru-POS-GO.pdf"><b>&#128214; Buka PDF GO</b></a><br><sub>gerobak &amp; warung</sub><br><br></td>
